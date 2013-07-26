@@ -1,0 +1,32 @@
+++MainMenu
+spieler|Players|Spieler
+human|Human|Mensch
+computer|Computer|Computer
+deinname|Your Name|Dein Name
+hiertippen|type here|Hier Tippen
+gesperrt|locked|gesperrt
+spielen|Play|Spielen
+abspann|Credits|Abspann
+bezahl|*) Only paid version.|*) Nur in der Bezahlversion
+++CoinHUD
+spielername|Player|Spieler
+geld|Coins|Münzen
+runde|Round|Runde
+level|Level|Level
+youwin|You Win!|Gewonnen!
+youlose|You Lose|Verloren!
+++CoinRoundEnd
+daswarnichts|Well, try again.|Ok, versuch's nochmal.
+eswirdbesser|It's getting better.|Es wird besser.
+sogehts|Yes! You got it!|Aha, es geht doch!
+grossartig|Wow ... great!|Grossartig!
+wunderbar|Awesome! 9/10 rounds!|Krass 9/10 Runden!
+koenig|You are the Coin King!|Du bist der Schnipper-Koenig!
+duhastgewonnen|You have won|Du hast
+duhastverloren|You lost|Du hast
+gewonnen||gewonnen
+verloren||verloren
+nextlevel|NEXT LEVEL !|NEUES LEVEL !
+maxlevel|Awesome! Game Over...|Krass! Game Over...
+newgame|New Game|Neues Spiel
+goon|GO ON!|WEITER!
